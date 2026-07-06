@@ -1,0 +1,1370 @@
+{
+    "segments": [
+        {
+            "index": 1,
+            "start_time": "00:00:00,000",
+            "end_time": "00:00:02,300",
+            "duration": 2.3,
+            "caption": "Hi, hello guys. So, neenga AI engineer aaganum na,",
+            "keywords": [
+                "AI engineer career",
+                "tech career coaching",
+                "artificial intelligence career path",
+                "software engineer studio",
+                "cinematic tech vlog"
+            ],
+            "visual_description": "A high-contrast cinematic shot of a young tech content creator in a moody, neon-lit studio setup, looking into the camera with a friendly expression. 85mm lens, f/1.4 aperture, shallow depth of field, 8k detail.",
+            "images": [
+                {
+                    "keyword": "AI engineer career",
+                    "prompt": "AI engineer career, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech career coaching",
+                    "prompt": "tech career coaching, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "artificial intelligence career path",
+                    "prompt": "artificial intelligence career path, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "software engineer studio",
+                    "prompt": "software engineer studio, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "cinematic tech vlog",
+                    "prompt": "cinematic tech vlog, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "start_time": "00:00:02,300",
+            "end_time": "00:00:04,100",
+            "duration": 1.8,
+            "caption": "Intha video ungaluku thaan.",
+            "keywords": [
+                "tech video intro",
+                "audience engagement",
+                "content creator studio",
+                "neon tech background",
+                "cinematic vlog setup"
+            ],
+            "visual_description": "A dynamic close-up of a content creator pointing slightly towards the lens, shallow depth of field, warm practical lighting mixing with cyber blue backlights, premium studio look, f/1.4 aperture.",
+            "images": [
+                {
+                    "keyword": "tech video intro",
+                    "prompt": "tech video intro, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "audience engagement",
+                    "prompt": "audience engagement, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "content creator studio",
+                    "prompt": "content creator studio, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "neon tech background",
+                    "prompt": "neon tech background, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "cinematic vlog setup",
+                    "prompt": "cinematic vlog setup, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "start_time": "00:00:04,100",
+            "end_time": "00:00:06,100",
+            "duration": 2.0,
+            "caption": "Neenga AI padikirathuku first,",
+            "keywords": [
+                "learning AI",
+                "artificial intelligence student",
+                "tech learning path",
+                "studying computer science",
+                "coding education"
+            ],
+            "visual_description": "A student focused intently on a glowing laptop screen in a dim room, side-lit by a soft desk lamp, code reflecting faintly on their face. 50mm lens, moody high-contrast aesthetic.",
+            "images": [
+                {
+                    "keyword": "learning AI",
+                    "prompt": "learning AI, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "artificial intelligence student",
+                    "prompt": "artificial intelligence student, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech learning path",
+                    "prompt": "tech learning path, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "studying computer science",
+                    "prompt": "studying computer science, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "coding education",
+                    "prompt": "coding education, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "start_time": "00:00:06,100",
+            "end_time": "00:00:08,800",
+            "duration": 2.7,
+            "caption": "Coding thaan important-nu solli Python padichirupinga.",
+            "keywords": [
+                "Python programming code",
+                "writing python script",
+                "coding syntax",
+                "developer terminal",
+                "machine learning development"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Python programming syntax, code snippets, script execution terminal, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "Python programming code",
+                    "prompt": "Python programming code, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "writing python script",
+                    "prompt": "writing python script, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "coding syntax",
+                    "prompt": "coding syntax, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer terminal",
+                    "prompt": "developer terminal, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "machine learning development",
+                    "prompt": "machine learning development, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "start_time": "00:00:08,800",
+            "end_time": "00:00:11,500",
+            "duration": 2.7,
+            "caption": "Antha Python padichathuku appram,",
+            "keywords": [
+                "learning roadmap",
+                "educational progression",
+                "next steps programming",
+                "tech career growth",
+                "software development path"
+            ],
+            "visual_description": "A cinematic transition shot of abstract digital blocks building upward, symbolizing career and learning progression, cool tech color palette, shallow depth of field.",
+            "images": [
+                {
+                    "keyword": "learning roadmap",
+                    "prompt": "learning roadmap, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "educational progression",
+                    "prompt": "educational progression, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "next steps programming",
+                    "prompt": "next steps programming, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech career growth",
+                    "prompt": "tech career growth, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "software development path",
+                    "prompt": "software development path, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "start_time": "00:00:11,500",
+            "end_time": "00:00:13,800",
+            "duration": 2.3,
+            "caption": "Linear Algebra pathi padichirupinga.",
+            "keywords": [
+                "Linear Algebra equations",
+                "mathematics for AI",
+                "matrix multiplication graph",
+                "data science math",
+                "vector spaces calculation"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Linear Algebra matrices, geometric vector graphs, math equations for machine learning, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "Linear Algebra equations",
+                    "prompt": "Linear Algebra equations, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "mathematics for AI",
+                    "prompt": "mathematics for AI, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "matrix multiplication graph",
+                    "prompt": "matrix multiplication graph, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "data science math",
+                    "prompt": "data science math, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "vector spaces calculation",
+                    "prompt": "vector spaces calculation, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "start_time": "00:00:13,800",
+            "end_time": "00:00:16,600",
+            "duration": 2.8,
+            "caption": "Linear Algebra-va eppadiyo kastapattu padichu,",
+            "keywords": [
+                "overcoming technical challenges",
+                "studying complex math",
+                "exhausted developer",
+                "late night coding",
+                "problem solving tech"
+            ],
+            "visual_description": "A young developer leaning back slightly from the desk with a sigh of relief, rubbing eyes, warm ambient lighting contrasting with a cool laptop screen glow, 85mm lens, f/1.4.",
+            "images": [
+                {
+                    "keyword": "overcoming technical challenges",
+                    "prompt": "overcoming technical challenges, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "studying complex math",
+                    "prompt": "studying complex math, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "exhausted developer",
+                    "prompt": "exhausted developer, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "late night coding",
+                    "prompt": "late night coding, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "problem solving tech",
+                    "prompt": "problem solving tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "start_time": "00:00:16,600",
+            "end_time": "00:00:19,200",
+            "duration": 2.6,
+            "caption": "Next paathena Machine Learning padichirupinga.",
+            "keywords": [
+                "Machine Learning concepts",
+                "ML algorithm training",
+                "predictive modeling tech",
+                "data science neural net",
+                "advanced coding systems"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Machine learning model diagrams, scatter plots, decision tree structures, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "Machine Learning concepts",
+                    "prompt": "Machine Learning concepts, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "ML algorithm training",
+                    "prompt": "ML algorithm training, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "predictive modeling tech",
+                    "prompt": "predictive modeling tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "data science neural net",
+                    "prompt": "data science neural net, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "advanced coding systems",
+                    "prompt": "advanced coding systems, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "start_time": "00:00:19,200",
+            "end_time": "00:00:22,100",
+            "duration": 2.9,
+            "caption": "Machine Learning padichitu, Deep Learning-um padichirupinga.",
+            "keywords": [
+                "Deep learning neural networks",
+                "multilayer perceptron",
+                "deep neural net nodes",
+                "artificial intelligence nodes",
+                "ML training frameworks"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Deep learning multilayer neural network architecture, glowing nodes and connections, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "Deep learning neural networks",
+                    "prompt": "Deep learning neural networks, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "multilayer perceptron",
+                    "prompt": "multilayer perceptron, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "deep neural net nodes",
+                    "prompt": "deep neural net nodes, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "artificial intelligence nodes",
+                    "prompt": "artificial intelligence nodes, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "ML training frameworks",
+                    "prompt": "ML training frameworks, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "start_time": "00:00:22,100",
+            "end_time": "00:00:24,700",
+            "duration": 2.6,
+            "caption": "Sari, Deep Learning-oda ellame mudinjiduchu-nu paatha,",
+            "keywords": [
+                "software engineering confusion",
+                "tech learning fatigue",
+                "puzzled developer looking at screen",
+                "neverending software roadmap",
+                "developer workspace"
+            ],
+            "visual_description": "A side profile of a programmer looking slightly overwhelmed but curious, staring at a screen filled with rising data pipelines. Moody studio lighting, 85mm lens, shallow depth of field.",
+            "images": [
+                {
+                    "keyword": "software engineering confusion",
+                    "prompt": "software engineering confusion, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech learning fatigue",
+                    "prompt": "tech learning fatigue, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "puzzled developer looking at screen",
+                    "prompt": "puzzled developer looking at screen, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "neverending software roadmap",
+                    "prompt": "neverending software roadmap, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer workspace",
+                    "prompt": "developer workspace, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "start_time": "00:00:24,700",
+            "end_time": "00:00:26,500",
+            "duration": 1.8,
+            "caption": "Aduthathu GenAI.",
+            "keywords": [
+                "Generative AI concepts",
+                "GenAI model technology",
+                "generative artificial intelligence",
+                "creative AI systems",
+                "future tech innovation"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Generative AI abstract neural pathways, synthetic data creation visualizers, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "Generative AI concepts",
+                    "prompt": "Generative AI concepts, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "GenAI model technology",
+                    "prompt": "GenAI model technology, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "generative artificial intelligence",
+                    "prompt": "generative artificial intelligence, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "creative AI systems",
+                    "prompt": "creative AI systems, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "future tech innovation",
+                    "prompt": "future tech innovation, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "start_time": "00:00:26,500",
+            "end_time": "00:00:28,800",
+            "duration": 2.3,
+            "caption": "Intha GenAI-oda mudinjitha-nu paatha,",
+            "keywords": [
+                "rapid tech evolution",
+                "constantly changing technology",
+                "developer analyzing trends",
+                "fast-paced AI industry",
+                "tech innovation timeline"
+            ],
+            "visual_description": "A cinematic shot of a futuristic digital interface swirling around, high-contrast studio atmosphere, cool blue and orange accent lighting, premium camera physics.",
+            "images": [
+                {
+                    "keyword": "rapid tech evolution",
+                    "prompt": "rapid tech evolution, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "constantly changing technology",
+                    "prompt": "constantly changing technology, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer analyzing trends",
+                    "prompt": "developer analyzing trends, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "fast-paced AI industry",
+                    "prompt": "fast-paced AI industry, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech innovation timeline",
+                    "prompt": "tech innovation timeline, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 13,
+            "start_time": "00:00:28,800",
+            "end_time": "00:00:30,500",
+            "duration": 1.7,
+            "caption": "Fine-Tuning.",
+            "keywords": [
+                "LLM fine tuning",
+                "model optimization tech",
+                "weight adjustment machine learning",
+                "training large language models",
+                "hyperparameter tuning"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Fine-tuning sliders, loss optimization graphs, model weights adjustment dashboards, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "LLM fine tuning",
+                    "prompt": "LLM fine tuning, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "model optimization tech",
+                    "prompt": "model optimization tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "weight adjustment machine learning",
+                    "prompt": "weight adjustment machine learning, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "training large language models",
+                    "prompt": "training large language models, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "hyperparameter tuning",
+                    "prompt": "hyperparameter tuning, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 14,
+            "start_time": "00:00:30,500",
+            "end_time": "00:00:32,400",
+            "duration": 1.9,
+            "caption": "Transformers.",
+            "keywords": [
+                "Transformers architecture",
+                "self attention mechanism AI",
+                "attention maps neural net",
+                "transformer model layers",
+                "deep learning transformers"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Transformer neural network architecture, self-attention mechanism matrices, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "Transformers architecture",
+                    "prompt": "Transformers architecture, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "self attention mechanism AI",
+                    "prompt": "self attention mechanism AI, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "attention maps neural net",
+                    "prompt": "attention maps neural net, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "transformer model layers",
+                    "prompt": "transformer model layers, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "deep learning transformers",
+                    "prompt": "deep learning transformers, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 15,
+            "start_time": "00:00:32,400",
+            "end_time": "00:00:35,100",
+            "duration": 2.7,
+            "caption": "So, intha Transformers-oda mudinjitha-nu paatha, GPTs.",
+            "keywords": [
+                "GPT models evolution",
+                "generative pre-trained transformer",
+                "openai gpt architecture",
+                "large scale neural networks",
+                "AI model evolution roadmap"
+            ],
+            "visual_description": "Transparent PNG overlay elements: GPT architecture blocks, pre-trained transformer network visualizers, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "GPT models evolution",
+                    "prompt": "GPT models evolution, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "generative pre-trained transformer",
+                    "prompt": "generative pre-trained transformer, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "openai gpt architecture",
+                    "prompt": "openai gpt architecture, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "large scale neural networks",
+                    "prompt": "large scale neural networks, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "AI model evolution roadmap",
+                    "prompt": "AI model evolution roadmap, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 16,
+            "start_time": "00:00:35,100",
+            "end_time": "00:00:36,700",
+            "duration": 1.6,
+            "caption": "Next LLM.",
+            "keywords": [
+                "Large Language Models",
+                "LLM tokenization visual",
+                "nlp text processing model",
+                "massive neural network weights",
+                "generative text technology"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Large Language Model tokenization stream, text vector embeddings, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "Large Language Models",
+                    "prompt": "Large Language Models, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "LLM tokenization visual",
+                    "prompt": "LLM tokenization visual, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "nlp text processing model",
+                    "prompt": "nlp text processing model, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "massive neural network weights",
+                    "prompt": "massive neural network weights, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "generative text technology",
+                    "prompt": "generative text technology, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 17,
+            "start_time": "00:00:36,700",
+            "end_time": "00:00:39,000",
+            "duration": 2.3,
+            "caption": "Intha mari poite iruku la?",
+            "keywords": [
+                "never-ending tech loop",
+                "infinite software roadmap",
+                "overwhelmed programmer smiling",
+                "technology cycle abstract",
+                "fast tech advancements"
+            ],
+            "visual_description": "A shot of the tech creator smiling and shaking their head in a relatable manner, high-contrast studio background, soft bokeh from background neon signs, f/1.4 aperture.",
+            "images": [
+                {
+                    "keyword": "never-ending tech loop",
+                    "prompt": "never-ending tech loop, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "infinite software roadmap",
+                    "prompt": "infinite software roadmap, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "overwhelmed programmer smiling",
+                    "prompt": "overwhelmed programmer smiling, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "technology cycle abstract",
+                    "prompt": "technology cycle abstract, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "fast tech advancements",
+                    "prompt": "fast tech advancements, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 18,
+            "start_time": "00:00:39,000",
+            "end_time": "00:00:41,200",
+            "duration": 2.2,
+            "caption": "AI engineer aaganum na namba,",
+            "keywords": [
+                "aspiring AI engineer",
+                "future artificial intelligence specialist",
+                "tech professional desk",
+                "modern software developer",
+                "career goal technology"
+            ],
+            "visual_description": "A crisp, centered portrait of a determined tech professional in a high-tech home office setup, dramatic rim lighting, shallow depth of field, 8k detail.",
+            "images": [
+                {
+                    "keyword": "aspiring AI engineer",
+                    "prompt": "aspiring AI engineer, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "future artificial intelligence specialist",
+                    "prompt": "future artificial intelligence specialist, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech professional desk",
+                    "prompt": "tech professional desk, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "modern software developer",
+                    "prompt": "modern software developer, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "career goal technology",
+                    "prompt": "career goal technology, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 19,
+            "start_time": "00:00:41,200",
+            "end_time": "00:00:44,000",
+            "duration": 2.8,
+            "caption": "New new technologies pathi padichite irukom.",
+            "keywords": [
+                "continuous tech learning",
+                "reading documentation online",
+                "developer studying new frameworks",
+                "cutting edge tech stack",
+                "keeping up with AI"
+            ],
+            "visual_description": "A split-screen style cinematic view of code documentations scrolling rapidly next to a focused developer's face reflecting the shifting light. 85mm lens, f/1.4.",
+            "images": [
+                {
+                    "keyword": "continuous tech learning",
+                    "prompt": "continuous tech learning, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "reading documentation online",
+                    "prompt": "reading documentation online, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer studying new frameworks",
+                    "prompt": "developer studying new frameworks, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "cutting edge tech stack",
+                    "prompt": "cutting edge tech stack, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "keeping up with AI",
+                    "prompt": "keeping up with AI, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 20,
+            "start_time": "00:00:44,000",
+            "end_time": "00:00:46,100",
+            "duration": 2.1,
+            "caption": "So, ithu eppa thaan mudiyum?",
+            "keywords": [
+                "ithu eppa thaan mudiyum?"
+            ],
+            "visual_description": "infinite learning curve|frustrated but motivated developer|tech industry demands|software developer challenge|humorous tech moments",
+            "images": [
+                {
+                    "keyword": "ithu eppa thaan mudiyum?",
+                    "prompt": "ithu eppa thaan mudiyum?, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 21,
+            "start_time": "00:00:46,100",
+            "end_time": "00:00:49,100",
+            "duration": 3.0,
+            "caption": "So, inga naanu padikanum-nu sonnathe thappu.",
+            "keywords": [
+                "shifting tech mindset",
+                "learning vs adapting",
+                "tech content creator explaining",
+                "developer paradigm shift",
+                "insights into AI engineering"
+            ],
+            "visual_description": "A medium close-up of the creator leanining forward to explain an important realization, warm key light, deep shadows in the background, cinematic 85mm lens look.",
+            "images": [
+                {
+                    "keyword": "shifting tech mindset",
+                    "prompt": "shifting tech mindset, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "learning vs adapting",
+                    "prompt": "learning vs adapting, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech content creator explaining",
+                    "prompt": "tech content creator explaining, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer paradigm shift",
+                    "prompt": "developer paradigm shift, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "insights into AI engineering",
+                    "prompt": "insights into AI engineering, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 22,
+            "start_time": "00:00:49,100",
+            "end_time": "00:00:52,500",
+            "duration": 3.4,
+            "caption": "Day by day AI pathina update aite thaan varuthu.",
+            "keywords": [
+                "daily AI updates",
+                "rapid artificial intelligence news",
+                "fast moving tech industry",
+                "exponential technological growth",
+                "tech news feed stream"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Abstract rapid data stream, updating version numbers, rolling timeline ticks, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "daily AI updates",
+                    "prompt": "daily AI updates, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "rapid artificial intelligence news",
+                    "prompt": "rapid artificial intelligence news, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "fast moving tech industry",
+                    "prompt": "fast moving tech industry, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "exponential technological growth",
+                    "prompt": "exponential technological growth, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech news feed stream",
+                    "prompt": "tech news feed stream, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 23,
+            "start_time": "00:00:52,500",
+            "end_time": "00:00:55,700",
+            "duration": 3.2,
+            "caption": "So, naambalum update-ah iruntha mattum thaan,",
+            "keywords": [
+                "continuous professional adaptation",
+                "staying relevant in tech",
+                "developer upskilling online",
+                "learning modern frameworks",
+                "survival in tech industry"
+            ],
+            "visual_description": "A determined developer selecting a new course module on screen, moody backlighting with blue accents, sharp focus on the user's expression, 8k quality.",
+            "images": [
+                {
+                    "keyword": "continuous professional adaptation",
+                    "prompt": "continuous professional adaptation, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "staying relevant in tech",
+                    "prompt": "staying relevant in tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer upskilling online",
+                    "prompt": "developer upskilling online, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "learning modern frameworks",
+                    "prompt": "learning modern frameworks, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "survival in tech industry",
+                    "prompt": "survival in tech industry, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 24,
+            "start_time": "00:00:55,700",
+            "end_time": "00:00:58,000",
+            "duration": 2.3,
+            "caption": "Nammala survival panna mudiyum.",
+            "keywords": [
+                "tech career survival",
+                "future proof career",
+                "thriving in AI industry",
+                "resilient software engineer",
+                "career longevity tech"
+            ],
+            "visual_description": "A powerful cinematic shot of a developer looking out over a city at night or through a large window, symbolic of career vision and longevity, high-contrast premium lighting.",
+            "images": [
+                {
+                    "keyword": "tech career survival",
+                    "prompt": "tech career survival, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "future proof career",
+                    "prompt": "future proof career, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "thriving in AI industry",
+                    "prompt": "thriving in AI industry, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "resilient software engineer",
+                    "prompt": "resilient software engineer, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "career longevity tech",
+                    "prompt": "career longevity tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 25,
+            "start_time": "00:00:58,000",
+            "end_time": "00:01:00,300",
+            "duration": 2.3,
+            "caption": "And day by day oru updates kudukoranga la,",
+            "keywords": [
+                "continuous model releases",
+                "open source AI updates",
+                "new model drops tech",
+                "constant software iterations",
+                "developer community ecosystem"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Software update notifications, version release logs, repository commit graphs, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "continuous model releases",
+                    "prompt": "continuous model releases, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "open source AI updates",
+                    "prompt": "open source AI updates, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "new model drops tech",
+                    "prompt": "new model drops tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "constant software iterations",
+                    "prompt": "constant software iterations, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer community ecosystem",
+                    "prompt": "developer community ecosystem, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 26,
+            "start_time": "00:01:00,300",
+            "end_time": "00:01:03,300",
+            "duration": 3.0,
+            "caption": "So, antha updates ellame namaluku nallathu thaan.",
+            "keywords": [
+                "embracing new technology",
+                "positive tech outlook",
+                "advantages of new tools",
+                "efficient developer workflow",
+                "AI automation benefits"
+            ],
+            "visual_description": "A cheerful tech creator nodding approvingly, looking towards a screen displaying a fast-loading process, warm studio aesthetic, f/1.4 aperture, cinematic look.",
+            "images": [
+                {
+                    "keyword": "embracing new technology",
+                    "prompt": "embracing new technology, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "positive tech outlook",
+                    "prompt": "positive tech outlook, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "advantages of new tools",
+                    "prompt": "advantages of new tools, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "efficient developer workflow",
+                    "prompt": "efficient developer workflow, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "AI automation benefits",
+                    "prompt": "AI automation benefits, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 27,
+            "start_time": "00:01:03,300",
+            "end_time": "00:01:06,100",
+            "duration": 2.8,
+            "caption": "So, ippa neenga AI engineer-la,",
+            "keywords": [
+                "AI engineer programming",
+                "what do AI engineers code",
+                "machine learning job scope",
+                "tech stack expectations",
+                "developer portfolio"
+            ],
+            "visual_description": "A clean view of a modern workstation with multiple monitors displaying clean, modular machine learning code, moody ambient room illumination, 50mm lens.",
+            "images": [
+                {
+                    "keyword": "AI engineer programming",
+                    "prompt": "AI engineer programming, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "what do AI engineers code",
+                    "prompt": "what do AI engineers code, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "machine learning job scope",
+                    "prompt": "machine learning job scope, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech stack expectations",
+                    "prompt": "tech stack expectations, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer portfolio",
+                    "prompt": "developer portfolio, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 28,
+            "start_time": "00:01:06,100",
+            "end_time": "00:01:09,000",
+            "duration": 2.9,
+            "caption": "Coding-la evlo irukum-nu neengale guess panunga.",
+            "keywords": [
+                "guessing coding requirements",
+                "interactive tech vlog",
+                "developer questioning audience",
+                "coding complexity comparison",
+                "software engineering discussion"
+            ],
+            "visual_description": "The content creator looking directly into the camera with an intriguing, questioning smile, inviting thoughts. Moody high-contrast lighting, 85mm lens, f/1.4.",
+            "images": [
+                {
+                    "keyword": "guessing coding requirements",
+                    "prompt": "guessing coding requirements, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "interactive tech vlog",
+                    "prompt": "interactive tech vlog, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "developer questioning audience",
+                    "prompt": "developer questioning audience, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "coding complexity comparison",
+                    "prompt": "coding complexity comparison, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "software engineering discussion",
+                    "prompt": "software engineering discussion, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 29,
+            "start_time": "00:01:09,000",
+            "end_time": "00:01:11,500",
+            "duration": 2.5,
+            "caption": "So, compared to other domains,",
+            "keywords": [
+                "web development comparison",
+                "software engineering fields",
+                "mobile dev vs AI dev",
+                "different coding domains",
+                "tech career matrix"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Comparison chart side-by-side layout, web development vs cloud vs AI, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "web development comparison",
+                    "prompt": "web development comparison, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "software engineering fields",
+                    "prompt": "software engineering fields, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "mobile dev vs AI dev",
+                    "prompt": "mobile dev vs AI dev, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "different coding domains",
+                    "prompt": "different coding domains, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "tech career matrix",
+                    "prompt": "tech career matrix, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 30,
+            "start_time": "00:01:11,500",
+            "end_time": "00:01:13,600",
+            "duration": 2.1,
+            "caption": "Compare panum pothu,",
+            "keywords": [
+                "domain comparison visualization",
+                "data comparison tech",
+                "analyzing coding lines",
+                "software architecture comparison",
+                "evaluating tech tracks"
+            ],
+            "visual_description": "A side-by-side glowing digital visualizer floating in front of the developer, analyzing lines of code across sectors, cinematic studio setting.",
+            "images": [
+                {
+                    "keyword": "domain comparison visualization",
+                    "prompt": "domain comparison visualization, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "data comparison tech",
+                    "prompt": "data comparison tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "analyzing coding lines",
+                    "prompt": "analyzing coding lines, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "software architecture comparison",
+                    "prompt": "software architecture comparison, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "evaluating tech tracks",
+                    "prompt": "evaluating tech tracks, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 31,
+            "start_time": "00:01:13,600",
+            "end_time": "00:01:17,200",
+            "duration": 3.6,
+            "caption": "Intha AI related-ana codings varum pothu mattum konjam kammiya thaan iruku.",
+            "keywords": [
+                "minimal coding requirements AI",
+                "low line count programming",
+                "efficient machine learning scripts",
+                "high level API development",
+                "clean code blocks"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Short, clean 5-line Python script for model inference, minimal syntax layout, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "minimal coding requirements AI",
+                    "prompt": "minimal coding requirements AI, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "low line count programming",
+                    "prompt": "low line count programming, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "efficient machine learning scripts",
+                    "prompt": "efficient machine learning scripts, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "high level API development",
+                    "prompt": "high level API development, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "clean code blocks",
+                    "prompt": "clean code blocks, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 32,
+            "start_time": "00:01:17,200",
+            "end_time": "00:01:21,000",
+            "duration": 3.8,
+            "caption": "Yenna, naria models ellame vanthu,",
+            "keywords": [
+                "pre-trained AI models",
+                "hugging face models repository",
+                "downloading deep learning weights",
+                "cloud model architecture",
+                "accessible AI systems"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Pre-trained model node blocks, model registry download arrows, cloud storage icons, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "pre-trained AI models",
+                    "prompt": "pre-trained AI models, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "hugging face models repository",
+                    "prompt": "hugging face models repository, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "downloading deep learning weights",
+                    "prompt": "downloading deep learning weights, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "cloud model architecture",
+                    "prompt": "cloud model architecture, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "accessible AI systems",
+                    "prompt": "accessible AI systems, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 33,
+            "start_time": "00:01:21,000",
+            "end_time": "00:01:23,500",
+            "duration": 2.5,
+            "caption": "Antha codings-ah kammiya thaan kudukoranga.",
+            "keywords": [
+                "abstracted code libraries",
+                "simple framework integration",
+                "high level machine learning code",
+                "easy API endpoints",
+                "streamlined developer workflow"
+            ],
+            "visual_description": "A sleek laptop running a brief Python script that loads an entire model instantly, smooth camera movement, shallow depth of field, cinematic lighting.",
+            "images": [
+                {
+                    "keyword": "abstracted code libraries",
+                    "prompt": "abstracted code libraries, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "simple framework integration",
+                    "prompt": "simple framework integration, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "high level machine learning code",
+                    "prompt": "high level machine learning code, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "easy API endpoints",
+                    "prompt": "easy API endpoints, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "streamlined developer workflow",
+                    "prompt": "streamlined developer workflow, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 34,
+            "start_time": "00:01:23,500",
+            "end_time": "00:01:26,800",
+            "duration": 3.3,
+            "caption": "For example, neenga fine-tune panrathu aagatum,",
+            "keywords": [
+                "fine tuning script python",
+                "peft lora training code",
+                "hugging face trainer python",
+                "model adaptation snippet",
+                "minimal fine tuning script"
+            ],
+            "visual_description": "Transparent PNG overlay elements: Hugging Face Trainer API code block, peft lora configuration script, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "fine tuning script python",
+                    "prompt": "fine tuning script python, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "peft lora training code",
+                    "prompt": "peft lora training code, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "hugging face trainer python",
+                    "prompt": "hugging face trainer python, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "model adaptation snippet",
+                    "prompt": "model adaptation snippet, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "minimal fine tuning script",
+                    "prompt": "minimal fine tuning script, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 35,
+            "start_time": "00:01:26,800",
+            "end_time": "00:01:29,500",
+            "duration": 2.7,
+            "caption": "Or oru model construct panrathu aagatum,",
+            "keywords": [
+                "building AI model pipeline",
+                "model architecture initialization",
+                "keras sequential model setup",
+                "pytorch layer definition",
+                "simple model construction"
+            ],
+            "visual_description": "Transparent PNG overlay elements: PyTorch neural network layer initialization code, simple model pipeline setup, isolated technology assets, transparent background.",
+            "images": [
+                {
+                    "keyword": "building AI model pipeline",
+                    "prompt": "building AI model pipeline, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "model architecture initialization",
+                    "prompt": "model architecture initialization, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "keras sequential model setup",
+                    "prompt": "keras sequential model setup, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "pytorch layer definition",
+                    "prompt": "pytorch layer definition, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "simple model construction",
+                    "prompt": "simple model construction, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 36,
+            "start_time": "00:01:29,500",
+            "end_time": "00:01:33,000",
+            "duration": 3.5,
+            "caption": "Ithula ellathulume kammiyana coding thaan namba use panra mari irukum.",
+            "keywords": [
+                "minimalist software engineering",
+                "efficient developer scripting",
+                "clean python execution",
+                "low code AI engineering",
+                "modern development workflow"
+            ],
+            "visual_description": "A high-contrast close-up of a developer smoothly typing just a few keystrokes to run an advanced pipeline, fingers in sharp focus, background blurred beautifully.",
+            "images": [
+                {
+                    "keyword": "minimalist software engineering",
+                    "prompt": "minimalist software engineering, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "efficient developer scripting",
+                    "prompt": "efficient developer scripting, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "clean python execution",
+                    "prompt": "clean python execution, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "low code AI engineering",
+                    "prompt": "low code AI engineering, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "modern development workflow",
+                    "prompt": "modern development workflow, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 37,
+            "start_time": "00:01:33,000",
+            "end_time": "00:01:35,500",
+            "duration": 2.5,
+            "caption": "So, neenga vanthu oru concept padikiriga na,",
+            "keywords": [
+                "neenga vanthu oru concept padikiriga na"
+            ],
+            "visual_description": "conceptual understanding tech|learning core principles AI|mental models software engineer|studying core logic algorithms|tech student whiteboard",
+            "images": [
+                {
+                    "keyword": "neenga vanthu oru concept padikiriga na",
+                    "prompt": "neenga vanthu oru concept padikiriga na, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        },
+        {
+            "index": 38,
+            "start_time": "00:01:35,500",
+            "end_time": "00:01:38,500",
+            "duration": 3.0,
+            "caption": "Antha concept eppadi work aaguthu-nu therinjikitaley podhum.",
+            "keywords": [
+                "understanding abstract concepts",
+                "how AI works logic",
+                "algorithmic flow understanding",
+                "conceptual mastery tech",
+                "successful tech creator explaining"
+            ],
+            "visual_description": "A concluding cinematic shot of the creator gesturing confidently, emphasizing core conceptual understanding over syntax memorization. Moody, premium studio background, 85mm lens, f/1.4.",
+            "images": [
+                {
+                    "keyword": "understanding abstract concepts",
+                    "prompt": "understanding abstract concepts, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "how AI works logic",
+                    "prompt": "how AI works logic, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "algorithmic flow understanding",
+                    "prompt": "algorithmic flow understanding, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "conceptual mastery tech",
+                    "prompt": "conceptual mastery tech, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                },
+                {
+                    "keyword": "successful tech creator explaining",
+                    "prompt": "successful tech creator explaining, transparent PNG overlay, isolated cutout, no background, alpha channel, ultra realistic, 8k"
+                }
+            ]
+        }
+    ]
+}
